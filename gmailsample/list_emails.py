@@ -1,4 +1,4 @@
-from gmailsample.boiler import get_service
+from boiler import get_service
 
 
 # To find more cool things you can do with the Gmail API, check out the documentation:
