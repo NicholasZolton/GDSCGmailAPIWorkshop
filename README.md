@@ -20,8 +20,6 @@ Create a virtual environment with `python -m virtualenv ./.venv`.
 
 Activate the virtual environment with `./.venv/Scripts/activate` (Windows) or `source ./.venv/bin/activate` (Linux).
 
-### Installing Dependencies
-
 Install the dependencies with `pip install -r requirements.txt`.
 
 ## Running the Sample

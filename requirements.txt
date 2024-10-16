@@ -1,7 +1,6 @@
 cachetools==5.5.0
 certifi==2024.8.30
 charset-normalizer==3.4.0
--e git+https://github.com/NicholasZolton/GDSCGmailAPIWorkshop.git@02e787fdb0962c8a6b5ad008d680e9b083c3da09#egg=gmailsample
 google-api-core==2.21.0
 google-api-python-client==2.149.0
 google-auth==2.35.0
